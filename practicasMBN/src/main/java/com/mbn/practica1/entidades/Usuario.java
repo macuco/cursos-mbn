@@ -23,6 +23,8 @@ public class Usuario implements Serializable {
 	private String correo;
 	private String password;
 	
+	//private Avance avance;
+	
 	
 	public Integer getId() {
 		return id;
